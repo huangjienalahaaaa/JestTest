@@ -98,3 +98,7 @@ https://nodejs.org/en/download/
 > npm install jest@24.8.0 -D
 
 <font color="red">-D</font> 就保存到dev里边了，也就是说上线的时候我们不使用这个包，只有在开发的时候才进行测试。这样就安装完了Jest框架。
+
+# v3.0  Jest小试身手 敲个实例:
+> 我们已经安装好了基本Jest测试环境，现在就可以小试伸手，这节课我们就来写第一个单元测试的例子。
+
